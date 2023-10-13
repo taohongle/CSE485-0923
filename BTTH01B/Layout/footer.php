@@ -1,0 +1,1 @@
+<footer class="footer fixed-bottom text-center border-top mt-1 pt-2 d-flex align-items-center justify-content-center"><strong><p class="">TLU'S MUSIC GARDEN</p></strong></footer>
